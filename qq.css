@@ -1,0 +1,50 @@
+.solve{
+    width: 70px;
+    height: 33px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    size: 100px;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+   
+}
+
+
+
+.solv:active{
+
+    background-color: green; 
+}  
+
+.dbz{
+    margin: 5px;
+}
+
+.ip{
+    width: 60px;
+}
+
+*{
+    background-color: black;
+    text-decoration-color: white;
+    color: white;
+}
+
+input{
+    border-color: white;
+}
+
+
+.nu{
+    width: 86px;
+    height: 33px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    size: 100px;
+    font-size: 1em;
+    margin-bottom: 10px;
+   
+
+}
